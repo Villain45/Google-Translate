@@ -5,7 +5,7 @@
 
 In the project directory, you can run:
 
-### `npm start frontend`
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm start backend`
+### `nodemon server.js`
 
 Runs the app in the backend server so that it can fetch the results.\
 Open [http://localhost:8000/languages](http://localhost:8000/languages) to view all the languages can be used to translate.\
